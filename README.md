@@ -1,1 +1,1 @@
-Este proyecto fue desarrollado utilizando typescript como lenguaje de programación, React como framework y algunas librerías como ZOD y Zustand.
+Este proyecto fue desarrollado utilizando typescript como lenguaje de programación, React y algunas otras librerías como ZOD y Zustand.
